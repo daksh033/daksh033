@@ -51,7 +51,7 @@
 ## 📫 Connect With Me  
 - 📍 New Delhi, India  
 - 📧 [diwandaksh125@gmail.com](mailto:diwandaksh125@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daksh-diwan/) 
 
 ---
 ⭐️ *Feel free to explore my repositories and reach out for collaboration or opportunities!*  
