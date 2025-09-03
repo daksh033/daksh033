@@ -69,11 +69,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📂 Top Contributed Repo
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=daksh033&limit=1&theme=tokyonight)](https://github.com/daksh033)
 
