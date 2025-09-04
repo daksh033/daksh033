@@ -59,11 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daksh033&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daksh033&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
